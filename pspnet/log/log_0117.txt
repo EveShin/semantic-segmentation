@@ -1,0 +1,158 @@
+it: 0   aux loss: 3.1453   main loss: 2.9739   total loss: 4.2321   lr: 0.01000000   pixel acc: 0.06   miou: 0.0063
+it: 1000   aux loss: 1.0854   main loss: 0.9692   total loss: 1.4034   lr: 0.00984987   pixel acc: 0.71   miou: 0.2228
+it: 2000   aux loss: 1.4445   main loss: 0.8950   total loss: 1.4728   lr: 0.00969949   pixel acc: 0.71   miou: 0.3708
+it: 3000   aux loss: 0.8473   main loss: 0.6373   total loss: 0.9762   lr: 0.00954885   pixel acc: 0.84   miou: 0.4103
+it: 4000   aux loss: 0.8918   main loss: 0.7025   total loss: 1.0592   lr: 0.00939795   pixel acc: 0.78   miou: 0.3702
+it: 5000   val mIoU: 0.5708
+it: 5000   aux loss: 0.5227   main loss: 0.3210   total loss: 0.5301   lr: 0.00924678   pixel acc: 0.88   miou: 0.5704
+it: 6000   aux loss: 1.2784   main loss: 0.8887   total loss: 1.4000   lr: 0.00909533   pixel acc: 0.70   miou: 0.3581
+it: 7000   aux loss: 0.7717   main loss: 0.3240   total loss: 0.6327   lr: 0.00894360   pixel acc: 0.91   miou: 0.3342
+it: 8000   aux loss: 0.4514   main loss: 0.2686   total loss: 0.4492   lr: 0.00879158   pixel acc: 0.91   miou: 0.2897
+it: 9000   aux loss: 0.4054   main loss: 0.1615   total loss: 0.3236   lr: 0.00863927   pixel acc: 0.95   miou: 0.5515
+it: 10000   val mIoU: 0.5818
+it: 10000   aux loss: 0.6954   main loss: 0.4599   total loss: 0.7381   lr: 0.00848666   pixel acc: 0.89   miou: 0.5813
+it: 11000   aux loss: 0.4728   main loss: 0.2509   total loss: 0.4401   lr: 0.00833375   pixel acc: 0.91   miou: 0.4353
+it: 12000   aux loss: 1.3500   main loss: 0.5338   total loss: 1.0739   lr: 0.00818052   pixel acc: 0.77   miou: 0.5570
+it: 13000   aux loss: 0.4899   main loss: 0.3841   total loss: 0.5800   lr: 0.00802698   pixel acc: 0.87   miou: 0.4032
+it: 14000   aux loss: 0.4465   main loss: 0.2428   total loss: 0.4214   lr: 0.00787310   pixel acc: 0.93   miou: 0.7262
+it: 15000   val mIoU: 0.6244
+it: 15000   aux loss: 0.7832   main loss: 0.2592   total loss: 0.5725   lr: 0.00771890   pixel acc: 0.90   miou: 0.6256
+it: 16000   aux loss: 0.5978   main loss: 0.2977   total loss: 0.5368   lr: 0.00756434   pixel acc: 0.92   miou: 0.3883
+it: 17000   aux loss: 0.3820   main loss: 0.2881   total loss: 0.4409   lr: 0.00740944   pixel acc: 0.91   miou: 0.2449
+it: 18000   aux loss: 0.4934   main loss: 0.3847   total loss: 0.5820   lr: 0.00725418   pixel acc: 0.85   miou: 0.3301
+it: 19000   aux loss: 0.4630   main loss: 0.2324   total loss: 0.4176   lr: 0.00709855   pixel acc: 0.90   miou: 0.3623
+it: 20000   val mIoU: 0.6609
+it: 20000   aux loss: 0.4044   main loss: 0.1884   total loss: 0.3502   lr: 0.00694253   pixel acc: 0.92   miou: 0.6608
+it: 21000   aux loss: 0.8876   main loss: 0.2419   total loss: 0.5969   lr: 0.00678613   pixel acc: 0.92   miou: 0.6418
+it: 22000   aux loss: 0.8638   main loss: 0.2225   total loss: 0.5680   lr: 0.00662932   pixel acc: 0.93   miou: 0.5507
+it: 23000   aux loss: 0.3325   main loss: 0.1398   total loss: 0.2729   lr: 0.00647210   pixel acc: 0.94   miou: 0.5545
+it: 24000   aux loss: 0.5699   main loss: 0.4864   total loss: 0.7143   lr: 0.00631446   pixel acc: 0.86   miou: 0.5028
+it: 25000   val mIoU: 0.6664
+it: 25000   aux loss: 0.7853   main loss: 0.3019   total loss: 0.6160   lr: 0.00615638   pixel acc: 0.92   miou: 0.6653
+it: 26000   aux loss: 0.5602   main loss: 0.3543   total loss: 0.5784   lr: 0.00599784   pixel acc: 0.87   miou: 0.3745
+it: 27000   aux loss: 0.4184   main loss: 0.1458   total loss: 0.3131   lr: 0.00583884   pixel acc: 0.95   miou: 0.5121
+it: 28000   aux loss: 0.5666   main loss: 0.2045   total loss: 0.4311   lr: 0.00567935   pixel acc: 0.91   miou: 0.5856
+it: 29000   aux loss: 0.3917   main loss: 0.2171   total loss: 0.3738   lr: 0.00551937   pixel acc: 0.93   miou: 0.4266
+it: 30000   val mIoU: 0.6664
+it: 30000   aux loss: 0.3724   main loss: 0.1344   total loss: 0.2834   lr: 0.00535887   pixel acc: 0.92   miou: 0.6666
+it: 31000   aux loss: 0.5628   main loss: 0.2643   total loss: 0.4894   lr: 0.00519783   pixel acc: 0.90   miou: 0.4763
+it: 32000   aux loss: 0.5451   main loss: 0.1449   total loss: 0.3630   lr: 0.00503624   pixel acc: 0.95   miou: 0.6564
+it: 33000   aux loss: 0.8189   main loss: 0.2722   total loss: 0.5998   lr: 0.00487406   pixel acc: 0.90   miou: 0.5916
+it: 34000   aux loss: 0.3542   main loss: 0.1571   total loss: 0.2988   lr: 0.00471129   pixel acc: 0.93   miou: 0.4586
+it: 35000   val mIoU: 0.7126
+it: 35000   aux loss: 0.8752   main loss: 0.1362   total loss: 0.4863   lr: 0.00454789   pixel acc: 0.93   miou: 0.7145
+it: 36000   aux loss: 0.2603   main loss: 0.1070   total loss: 0.2111   lr: 0.00438383   pixel acc: 0.97   miou: 0.5963
+it: 37000   aux loss: 0.5175   main loss: 0.2100   total loss: 0.4170   lr: 0.00421909   pixel acc: 0.93   miou: 0.6839
+it: 38000   aux loss: 0.2829   main loss: 0.0951   total loss: 0.2083   lr: 0.00405363   pixel acc: 0.97   miou: 0.7951
+it: 39000   aux loss: 0.5881   main loss: 0.1519   total loss: 0.3871   lr: 0.00388742   pixel acc: 0.95   miou: 0.7502
+it: 40000   val mIoU: 0.7164
+it: 40000   aux loss: 0.3266   main loss: 0.1526   total loss: 0.2832   lr: 0.00372041   pixel acc: 0.93   miou: 0.7167
+it: 41000   aux loss: 1.3254   main loss: 0.3073   total loss: 0.8374   lr: 0.00355257   pixel acc: 0.89   miou: 0.6152
+it: 42000   aux loss: 0.3102   main loss: 0.1130   total loss: 0.2371   lr: 0.00338383   pixel acc: 0.96   miou: 0.7423
+it: 43000   aux loss: 0.7071   main loss: 0.1265   total loss: 0.4093   lr: 0.00321416   pixel acc: 0.97   miou: 0.6249
+it: 44000   aux loss: 0.4358   main loss: 0.1279   total loss: 0.3022   lr: 0.00304349   pixel acc: 0.95   miou: 0.7853
+it: 45000   val mIoU: 0.7278
+it: 45000   aux loss: 0.7619   main loss: 0.1295   total loss: 0.4343   lr: 0.00287175   pixel acc: 0.94   miou: 0.7288
+it: 46000   aux loss: 0.2366   main loss: 0.1091   total loss: 0.2037   lr: 0.00269885   pixel acc: 0.95   miou: 0.7472
+it: 47000   aux loss: 0.4622   main loss: 0.0784   total loss: 0.2633   lr: 0.00252472   pixel acc: 0.97   miou: 0.6970
+it: 48000   aux loss: 0.4455   main loss: 0.1418   total loss: 0.3200   lr: 0.00234924   pixel acc: 0.94   miou: 0.7399
+it: 49000   aux loss: 0.5626   main loss: 0.0733   total loss: 0.2984   lr: 0.00217229   pixel acc: 0.98   miou: 0.7717
+it: 50000   val mIoU: 0.7369
+it: 50000   aux loss: 0.1955   main loss: 0.0665   total loss: 0.1447   lr: 0.00199372   pixel acc: 0.94   miou: 0.7373
+it: 51000   aux loss: 0.5048   main loss: 0.1750   total loss: 0.3769   lr: 0.00181335   pixel acc: 0.94   miou: 0.7036
+it: 52000   aux loss: 0.5473   main loss: 0.3309   total loss: 0.5498   lr: 0.00163097   pixel acc: 0.90   miou: 0.4578
+it: 53000   aux loss: 0.3021   main loss: 0.0889   total loss: 0.2098   lr: 0.00144628   pixel acc: 0.97   miou: 0.7332
+it: 54000   aux loss: 0.4987   main loss: 0.1161   total loss: 0.3156   lr: 0.00125893   pixel acc: 0.96   miou: 0.6343
+it: 55000   val mIoU: 0.7436
+it: 55000   aux loss: 0.2126   main loss: 0.0890   total loss: 0.1740   lr: 0.00106841   pixel acc: 0.94   miou: 0.7440
+it: 56000   aux loss: 0.1794   main loss: 0.0873   total loss: 0.1591   lr: 0.00087401   pixel acc: 0.97   miou: 0.7737
+it: 57000   aux loss: 0.2624   main loss: 0.0753   total loss: 0.1803   lr: 0.00067464   pixel acc: 0.97   miou: 0.7892
+it: 58000   aux loss: 0.4797   main loss: 0.0884   total loss: 0.2802   lr: 0.00046837   pixel acc: 0.97   miou: 0.5879
+it: 59000   aux loss: 0.1966   main loss: 0.0798   total loss: 0.1584   lr: 0.00025099   pixel acc: 0.97   miou: 0.6604
+it: 60000   val mIoU: 0.7455
+
+
+---
+
+C:\ProgramData\anaconda3\envs\aeri\python.exe C:\Users\aivs\Desktop\AIVS\PSP\train.py 
+DEVICE: cuda
+Loading pretrained model...
+Loading data...
+train_aug dataset loaded: 10582 images
+val dataset loaded: 1449 images
+Checkpoint saved at iteration 0
+C:\Users\aivs\Desktop\AIVS\PSP\metrics.py:18: RuntimeWarning: invalid value encountered in divide
+  iou = intersection / union # 나눠주기
+Checkpoint saved at iteration 1000
+Checkpoint saved at iteration 2000
+Checkpoint saved at iteration 3000
+Checkpoint saved at iteration 4000
+Iter 5000: Best mIoU 0.5708
+Checkpoint saved at iteration 5000
+Checkpoint saved at iteration 6000
+Checkpoint saved at iteration 7000
+Checkpoint saved at iteration 8000
+Checkpoint saved at iteration 9000
+Iter 10000: Best mIoU 0.5818
+Checkpoint saved at iteration 10000
+Checkpoint saved at iteration 11000
+Checkpoint saved at iteration 12000
+Checkpoint saved at iteration 13000
+Checkpoint saved at iteration 14000
+Iter 15000: Best mIoU 0.6244
+Checkpoint saved at iteration 15000
+Checkpoint saved at iteration 16000
+Checkpoint saved at iteration 17000
+Checkpoint saved at iteration 18000
+Checkpoint saved at iteration 19000
+Iter 20000: Best mIoU 0.6609
+Checkpoint saved at iteration 20000
+Checkpoint saved at iteration 21000
+Checkpoint saved at iteration 22000
+Checkpoint saved at iteration 23000
+Checkpoint saved at iteration 24000
+Iter 25000: Best mIoU 0.6664
+Checkpoint saved at iteration 25000
+Checkpoint saved at iteration 26000
+Checkpoint saved at iteration 27000
+Checkpoint saved at iteration 28000
+Checkpoint saved at iteration 29000
+Iter 30000: Best mIoU 0.6664
+Checkpoint saved at iteration 30000
+Checkpoint saved at iteration 31000
+Checkpoint saved at iteration 32000
+Checkpoint saved at iteration 33000
+Checkpoint saved at iteration 34000
+Iter 35000: Best mIoU 0.7126
+Checkpoint saved at iteration 35000
+Checkpoint saved at iteration 36000
+Checkpoint saved at iteration 37000
+Checkpoint saved at iteration 38000
+Checkpoint saved at iteration 39000
+Iter 40000: Best mIoU 0.7164
+Checkpoint saved at iteration 40000
+Checkpoint saved at iteration 41000
+Checkpoint saved at iteration 42000
+Checkpoint saved at iteration 43000
+Checkpoint saved at iteration 44000
+Iter 45000: Best mIoU 0.7278
+Checkpoint saved at iteration 45000
+Checkpoint saved at iteration 46000
+Checkpoint saved at iteration 47000
+Checkpoint saved at iteration 48000
+Checkpoint saved at iteration 49000
+Iter 50000: Best mIoU 0.7369
+Checkpoint saved at iteration 50000
+Checkpoint saved at iteration 51000
+Checkpoint saved at iteration 52000
+Checkpoint saved at iteration 53000
+Checkpoint saved at iteration 54000
+Iter 55000: Best mIoU 0.7436
+Checkpoint saved at iteration 55000
+Checkpoint saved at iteration 56000
+Checkpoint saved at iteration 57000
+Checkpoint saved at iteration 58000
+Checkpoint saved at iteration 59000
+Iter 60000: Best mIoU 0.7455
+
+종료 코드 0(으)로 완료된 프로세스

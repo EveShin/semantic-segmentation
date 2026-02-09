@@ -1,0 +1,23 @@
+OS=8 + Multi-Scale + Flip Evaluation
+Final mIoU: 0.7509
+background          iou: 0.9382
+aeroplane           iou: 0.8791
+bicycle             iou: 0.4206
+bird                iou: 0.8606
+boat                iou: 0.6829
+bottle              iou: 0.7482
+bus                 iou: 0.9349
+car                 iou: 0.8689
+cat                 iou: 0.9202
+chair               iou: 0.3056
+cow                 iou: 0.8213
+diningtable         iou: 0.5411
+dog                 iou: 0.8274
+horse               iou: 0.8310
+motorbike           iou: 0.8358
+person              iou: 0.8374
+pottedplant         iou: 0.6196
+sheep               iou: 0.8254
+sofa                iou: 0.4268
+train               iou: 0.8834
+tvmonitor           iou: 0.7613

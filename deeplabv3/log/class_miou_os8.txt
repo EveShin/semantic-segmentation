@@ -1,0 +1,42 @@
+os = 8 validation miou: 0.7202
+background          iou: 0.9286
+os = 8 validation miou: 0.7202
+aeroplane           iou: 0.8180
+os = 8 validation miou: 0.7202
+bicycle             iou: 0.4080
+os = 8 validation miou: 0.7202
+bird                iou: 0.8304
+os = 8 validation miou: 0.7202
+boat                iou: 0.6571
+os = 8 validation miou: 0.7202
+bottle              iou: 0.7181
+os = 8 validation miou: 0.7202
+bus                 iou: 0.9174
+os = 8 validation miou: 0.7202
+car                 iou: 0.8567
+os = 8 validation miou: 0.7202
+cat                 iou: 0.8765
+os = 8 validation miou: 0.7202
+chair               iou: 0.3064
+os = 8 validation miou: 0.7202
+cow                 iou: 0.7803
+os = 8 validation miou: 0.7202
+diningtable         iou: 0.5222
+os = 8 validation miou: 0.7202
+dog                 iou: 0.8032
+os = 8 validation miou: 0.7202
+horse               iou: 0.7930
+os = 8 validation miou: 0.7202
+motorbike           iou: 0.8064
+os = 8 validation miou: 0.7202
+person              iou: 0.8074
+os = 8 validation miou: 0.7202
+pottedplant         iou: 0.5509
+os = 8 validation miou: 0.7202
+sheep               iou: 0.7704
+os = 8 validation miou: 0.7202
+sofa                iou: 0.3834
+os = 8 validation miou: 0.7202
+train               iou: 0.8584
+os = 8 validation miou: 0.7202
+tvmonitor           iou: 0.7323
