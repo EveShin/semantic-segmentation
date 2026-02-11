@@ -51,6 +51,3 @@ python eval.py --model pspnet --checkpoint path/to/checkpoint.pth
 - Chen, L. C., Papandreou, G., Schroff, F., & Adam, H. (2017). Rethinking atrous convolution for semantic image segmentation. arXiv preprint arXiv:1706.05587.
 - Zhao, H., Shi, J., Qi, X., Wang, X., & Jia, J. (2017). Pyramid scene parsing network. In CVPR.
 
-## 라이선스
-
-MIT License
